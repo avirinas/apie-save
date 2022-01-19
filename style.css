@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;400;900&family=Luxurious+Roman&display=swap');
+/*  color codes::
+#F9F7F7  - text
+#DBE2EF - 
+#3F72AF - 
+#112D4E - main background color */
+html{
+    font-size: 40px;
+}
+body{
+    background: #08D9D6 ;
+}
+h1{
+    color: #EAEAEA;
+    text-align: center;
+    font-size: 1.2rem ;
+    font-family: 'Luxurious Roman';
+}
+p{
+    color:#EAEAEA ;
+    background:#FF2E63   ;
+    word-spacing: 5px;
+    line-height: 45px;
+    font-size: 0.8em ;
+    padding: 30px;
+    text-align: justify;
+    border: 3px solid white;
+}
+.box-model{
+       width: 50%;
+    height: 50%;
+    background: #252A34;
+    color: #252A34;
+    margin: 50px auto;
+    padding: 50px;
+    border: 3px solid white; 
+}
